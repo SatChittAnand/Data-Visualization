@@ -39,8 +39,12 @@ marker_options = [
     ".",  # Point
     ",",  # Pixel
 ]
+
+
+```
      
 ---
+
 x1 = [1, 2, 3, 4, 5]
 y_base = [2, 4, 6, 8, 10]
 
@@ -51,6 +55,4 @@ plt.title("Different Marker Options")
 plt.legend()
 plt.show()
 
-
-```
 <img width="543" height="435" alt="image" src="https://github.com/user-attachments/assets/e796455b-ed42-4f81-8c3a-23d8b4239c85" />
